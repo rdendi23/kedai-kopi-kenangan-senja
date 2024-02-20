@@ -161,7 +161,7 @@ body {
 }
 .about h2 span,
 .menu h2 span,
-.contact h2 span {
+span {
   color: var(--primary);
 }
 .about .row {
